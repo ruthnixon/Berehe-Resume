@@ -18,12 +18,12 @@ title: Berehe-Resume
 `Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Major in Computer Science 
+- Majoring in Computer Science 
 
 `08/2017-09/2018`
 __Brigham Young University Hawaii__, Laie, Hawaii
 
-- Completed some Generals 
+- Completed some Generals # seems unnecessary to have this here 
 
 ## Skills
 
@@ -43,12 +43,12 @@ __Asteroids Project__
 `September 2020 - December 2020`
 __Ethiopia Website__
 
-- Developed a website teaching about the cutlures, history, and languages of Ethiopia 
+- Developed a website teaching about the cutlures, history, and languages of Ethiopia (using html, css and/or javascript)
 
-## Service and Work History
+## Work History
 
 `03/2019-04/2021`
-__Library Student Lead__, Brigham Young University - Idaho
+__Library Student Lead__, Brigham Young University - Rexburg, Idaho
 - Lead a team of 9 student aide’s and communicated any policy changes or answered team’s questions/concerns
 - Managed team’s schedule of daily tasks to ensure tasks of higher priority were finished
 - Contributed to admin council meetings with suggested improvements, observations and concerns
@@ -56,14 +56,14 @@ __Library Student Lead__, Brigham Young University - Idaho
 - Assisted patrons with library's computers and provided information on logging onto Internet
 
 `09/2019-12/2020`
-__Printing Press Tour Guide__, Brigham Young University - Idaho 
+__Printing Press Tour Guide__, Brigham Young University - Rexburg, Idaho 
 - Prepared and operated offset printing press 
 - Provided tours to average 40 people per day
 - Instructed patrons how to operate press for demo
 - Ensured proper closing procedure was followed at end of day
 
 `09/2017-06/2018`
-__University Cafeteria - Cashier__, Brigham Young University – Hawaii
+__University Cafeteria - Cashier__, Brigham Young University – Laie, Hawaii
 - Counted cash in register drawer at beginning and end of shift
 - Restocked, arranged and organized merchandise in front lanes to drive product sales
 - Processed average of 300 POS transactions, including checks, cash and credit purchases or refunds
@@ -71,9 +71,10 @@ __University Cafeteria - Cashier__, Brigham Young University – Hawaii
 - Displayed friendly, outgoing and energetic behavior to create warm, fun atmosphere for guests
 - Answered customer questions and pointed individuals in right directions to meet current desires
 
+## Volunteer
 
 `2014-2016`
-__Volunteer Basketball Manager__, Mount Vernon High-School 
+__Volunteer Basketball Manager__, Mount Vernon High-School - Murray, Utah 
 
 - Organized team schedule and ensured there was enough practice time 
 
