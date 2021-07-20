@@ -23,8 +23,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `08/2017-09/2018`
 __Brigham Young University Hawaii__, Laie, Hawaii
 
-- Completed some Generals # seems unnecessary to have this here 
-
 ## Skills
 
 - Language: Fluent in Amharic and English 
@@ -43,7 +41,7 @@ __Asteroids Project__
 `September 2020 - December 2020`
 __Ethiopia Website__
 
-- Developed a website teaching about the cutlures, history, and languages of Ethiopia (using html, css and/or javascript)
+- Developed a website teaching about the cutlures, history, and languages of Ethiopia by using HTML and CSS
 
 ## Work History
 
